@@ -89,3 +89,31 @@ Lo último que nos falta es instalar es el PhPMyAdmin que nos va preguntando cie
 ![](img/35.png)
 
 ## Preguntas finales:
+
+Directorio de instalación.
+
+![](img/36.png)
+
+Lo que pasa con el comando es que suspende el servicio:
+
+![](img/42.png)
+
+![](img/43.png)
+
+Directorio del servidor
+
+![](img/37.png)
+
+Directorio de los datos
+
+![](img/38.png)
+
+Archivo de configuración:
+
+![](img/39.png)
+
+![](img/41.png)
+
+Propietario de las bases de datos:
+
+![](img/40.png)
